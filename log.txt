@@ -1,0 +1,18 @@
+2024-12-20 04:41:04.897687700 +01:00
+CPU usage in the last 2 seconds: 18.47%
+
+2024-12-20 04:41:07.920021700 +01:00
+CPU usage in the last 2 seconds: 15.15%
+
+2024-12-20 04:41:10.939067 +01:00
+CPU usage in the last 2 seconds: 16.42%
+
+2024-12-20 04:41:13.959654300 +01:00
+CPU usage in the last 2 seconds: 15.27%
+
+2024-12-20 04:41:16.979132700 +01:00
+CPU usage in the last 2 seconds: 15.25%
+
+2024-12-20 04:41:20.000009200 +01:00
+CPU usage in the last 2 seconds: 13.31%
+
